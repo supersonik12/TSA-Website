@@ -6,3 +6,9 @@ header img {
 .title {
     text-align: center;
 }
+
+aside {
+    width: 40%;
+    float: right;
+
+}
