@@ -38,6 +38,13 @@ nav li a:hover {
     color: gray;
   }
   
+h2 {
+  text-align: center;
+}
+
+h4 {
+ text-align: center;
+}
 
 img {
   width: 100%;
