@@ -25,7 +25,7 @@ nav li {
     float: right;
   }
   
-nav li a {
+nav li a:link, a:visited {
     display: block;
 
     color: black;
@@ -37,4 +37,4 @@ nav li a {
   
 nav li a:hover {
     color: gray;
-  }
+}
