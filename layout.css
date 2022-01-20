@@ -60,7 +60,9 @@ h4 {
 }
 
 .general {
-  margin: 10px;
+  margin: 0 30px;
+  text-align: center;
+  font-size: large;
 }
 
 img {
@@ -100,7 +102,8 @@ footer {
 /* featured bars on the homepage */
 .featured {
   overflow: hidden;
-  border: 6px dotted pink;
+  border: 6px dotted #1974D2;
+  margin: 0 10px;
 }
 
 #featured-title {
@@ -111,12 +114,8 @@ footer {
   float: left;
   width: 24%;
   height: 15%;
-  padding: 0 0.5%;
+  padding: 0 0.5% 0.5% 0.5%;
   text-align: center;
   border-radius: 20%;
   
-}
-
-#featured-title {
-  font-family: 'Dancing Script', cursive;
 }

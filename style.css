@@ -1,11 +1,12 @@
+body {
+    font-family: Quicksand, sans-serif;
+}
+
 a:link{
     color: #1974d2;
     text-decoration: none;
 }
 
-.title{
-    font-family: 'Dancing Script', cursive;
-}
 
 footer {
     text-align: center;
