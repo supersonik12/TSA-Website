@@ -116,6 +116,11 @@ figcaption {
 #paragraph2 {
   display: block;
   clear: both;
+  margin: 0 10px;
+}
+
+.paragraph2-text {
+  margin: 0 10px;
 }
 
 #paint-pic {
@@ -129,6 +134,8 @@ figcaption {
 }
 /* featured bars on the homepage */
 .featured {
+  clear: both;
+  display: block;
   overflow: hidden;
   margin: 0 10px;
 }
@@ -137,6 +144,7 @@ figcaption {
   padding: 0 2%;
   
 }
+
 .featured-image{
   float: left;
   width: 24%;
