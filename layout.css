@@ -103,7 +103,7 @@ figcaption {
   border-radius: 20%;
   
 }
-#instruction{
+.instruction{
   float: left;
   width: 15%;
   height: 15%;
