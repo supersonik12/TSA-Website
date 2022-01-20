@@ -90,7 +90,6 @@ figcaption {
 /* featured bars on the homepage */
 .featured {
   overflow: hidden;
-  border: 6px dotted #1974D2;
   margin: 0 10px;
 }
 
