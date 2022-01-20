@@ -21,6 +21,10 @@ nav li a:hover {
     border: 6px dotted #ff007f;
 }
 
+.register {
+    font-size: large;
+}
+
 /* captions for gallery images */
 figcaption {
     font-style: italic;
