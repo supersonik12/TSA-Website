@@ -1,20 +1,32 @@
+/*Default font: Quicksand from Google Fonts*/
 body {
     font-family: Quicksand, sans-serif;
 }
 
-a:link{
-    color: #1974d2;
+/*nav bar styles*/
+nav li a:link, a:visited {
+    color: black;
     text-decoration: none;
 }
 
+nav li a:hover {
+    color: gray;
+}
+
+.general {
+    font-size: large;
+}
+
+/* captions for gallery images */
+figcaption {
+    font-style: italic;
+}
 
 footer {
-    text-align: center;
     color: black;
     padding: .5%;
 }
 
 footer a:link, a:visited {
-    color: black;
-    
+    color: black;  
 }

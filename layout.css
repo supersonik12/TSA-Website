@@ -23,7 +23,7 @@ aside {
     float: right;
 }
 
-/* navigation bar styles */
+/* navigation bar layout */
 nav {
     float: right;
 }
@@ -39,30 +39,23 @@ nav li {
   
 nav li a:link, a:visited {
     display: block;
-    color: black;
     text-align: left;
     padding: 16px;
     margin: 0px 10px;
-    text-decoration: none;
-    
   }
   
-nav li a:hover {
-    color: gray;
-  }
-  
+
 h2 {
   text-align: center;
 }
 
 h4 {
- text-align: center;
+  text-align: center;
 }
 
 .general {
   margin: 0 30px;
   text-align: center;
-  font-size: large;
 }
 
 img {
@@ -88,15 +81,10 @@ figcaption {
   text-align: center;
 }
 
-footer {
-  text-align: left;
-  background-image: url("photos/footer.jpg");
-}
-
 /* the styling of home page paragraph */
 #introduction {
   text-align: center;
-  margin: 0px 10px
+  margin: 0px 10px;
 }
 
 /* featured bars on the homepage */
@@ -118,4 +106,9 @@ footer {
   text-align: center;
   border-radius: 20%;
   
+}
+
+footer {
+  text-align: center;
+  background-image: url("photos/footer.jpg");
 }
