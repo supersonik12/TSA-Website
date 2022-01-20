@@ -113,8 +113,20 @@ figcaption {
   border-radius: 20%; 
 }
 
+#paragraph2 {
+  display: block;
+  clear: both;
+}
 
-
+#paint-pic {
+ width: 20%;
+ height: 20%;
+ display: block;
+ float: left;
+ margin-left: 10%;
+ margin-right: 10%;
+ margin-bottom: 3%;
+}
 /* featured bars on the homepage */
 .featured {
   overflow: hidden;
