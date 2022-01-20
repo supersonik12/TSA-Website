@@ -92,6 +92,7 @@ figcaption {
   overflow: hidden;
   border:6px dotted rgb(156, 227, 245);
   background-color: rgb(218, 245, 252);
+  margin: 0 10px;
 }
 /* these are the same as the ones for the featured bar but copied over incase changes are made */
 .icon{
