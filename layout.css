@@ -87,6 +87,33 @@ figcaption {
   margin: 0px 10px;
 }
 
+/* register bar on homepage */
+.register{
+  overflow: hidden;
+  border:6px dotted rgb(156, 227, 245);
+  background-color: rgb(218, 245, 252);
+}
+/* these are the same as the ones for the featured bar but copied over incase changes are made */
+.icon{
+  float: left;
+  width: 15%;
+  height: 15%;
+  padding: 0 5%;
+  text-align: center;
+  border-radius: 20%;
+  
+}
+#instruction{
+  float: left;
+  width: 15%;
+  height: 15%;
+  padding: 0 5%;
+  text-align: center;
+  border-radius: 20%; 
+}
+
+
+
 /* featured bars on the homepage */
 .featured {
   overflow: hidden;
