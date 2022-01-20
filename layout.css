@@ -90,7 +90,7 @@ figcaption {
 /* register bar on homepage */
 .register{
   overflow: hidden;
-  border:6px dotted rgb(156, 227, 245);
+  border:6px dotted #1974d2;
   background-color: rgb(218, 245, 252);
   margin: 0 10px;
 }
