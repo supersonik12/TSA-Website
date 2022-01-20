@@ -1,6 +1,6 @@
-body { 
-  padding: 0; 
-  margin: 0; 
+body {
+  padding: 0;
+  margin: 0;
 }
 
 header {
@@ -110,12 +110,12 @@ figcaption {
   height: 15%;
   padding: 0 5%;
   text-align: center;
-  border-radius: 20%; 
+  border-radius: 20%;
 }
 
 #paragraph2 {
   display: block;
-  clear: both;
+
 }
 
 #paint-pic {
@@ -128,7 +128,9 @@ figcaption {
  margin-bottom: 3%;
 }
 /* featured bars on the homepage */
+
 .featured {
+  display: block;
   overflow: hidden;
   margin: 0 10px;
 }
